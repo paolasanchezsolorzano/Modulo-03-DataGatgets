@@ -9,13 +9,13 @@ _**Data Gadgets** es una empresa formada por un grupo de analistas de datos que 
 
 ## Equipo Data Gatgets: 📈🔍
 
-|Names|GitHub_link_user_name|
-|-----|------------------|
-|_Patricia González_|https://github.com/Patri-EGG|
-|_Paola Sánchez_|https://github.com/paolasanchezsolorzano|
-|_Fernanda Marti_|https://github.com/fernandaMarti|
-|_Nuria Cano_| https://github.com/nuriancg|
-|_Raquel Castellanos_|https://github.com/RachelCaste|
+|Names|GitHub_link_user_name|Linkedin_link_user_name|
+|-----|------------------|---------------------------|
+|_Patricia González_|https://github.com/Patri-EGG|https://www.linkedin.com/in/patricia-gonzalez-gruber/|
+|_Paola Sánchez_|https://github.com/paolasanchezsolorzano|https://www.linkedin.com/in/paola-s%C3%A1nchez-sol%C3%B3rzano-5a05751b4/|
+|_Fernanda Marti_|https://github.com/fernandaMarti|https://www.linkedin.com/in/fernanda-marti/|
+|_Nuria Cano_| https://github.com/nuriancg|https://www.linkedin.com/in/nuria-cano-girones/|
+|_Raquel Castellanos_|https://github.com/RachelCaste|https://www.linkedin.com/in/raquel-castellanos-alfonso/|
 
 
 ## Descripción del Cliente 👨‍💻
